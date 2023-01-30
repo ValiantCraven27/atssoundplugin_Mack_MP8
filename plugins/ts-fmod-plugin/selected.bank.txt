@@ -1,4 +1,10 @@
-edgt_dd60v3
-edgt_dd60seriesv2_rm
+mack_mp8_kriechbaum
+kenworth_w900_rm
 brake.effects
+park_brake
+stick_blinker
+reverse
 retarder
+air_compressor
+air_horns
+gear_grind

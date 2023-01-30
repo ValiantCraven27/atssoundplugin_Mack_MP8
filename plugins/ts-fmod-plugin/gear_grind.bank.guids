@@ -1,0 +1,6 @@
+{351664be-4829-489d-8ac7-f2305ae3c798} bank:/gear_grind
+{1315eda7-1829-4dd8-9d1a-176f65637ab2} bank:/master
+{8b08cd73-6952-019a-1b53-9d9194907c2a} bank:/master.strings
+{e3504ea4-e791-43dd-af0b-beb87e487892} bus:/
+{1f329ab6-53d2-448d-9bd1-7e4874df6f1d} event:/gear_grind
+{d7ce944a-03b8-4acd-b52f-4de82443255a} event:/gear_wrong

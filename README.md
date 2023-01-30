@@ -2,7 +2,7 @@
 
 - MP8 Engine Sound Plugin /w Brake and Retarder now!
 - 1/30/23 Added Air Pressure and Park Brake sound banks
-- 1/30/23 Added Air Horns , Gear Grinds, Reverse, Blinker Stick sound banks
+- 1/30/23 Added Air Horns , Reverse, Blinker Stick sound banks
 
 1. Install in your steam folder Drive:\steam\steamapps\common\American Truck Simulator\bin\win_x64
 2. Just drop plugins folder in win_64x and restart game.

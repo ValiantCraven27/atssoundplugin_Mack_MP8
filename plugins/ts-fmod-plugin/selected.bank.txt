@@ -1,10 +1,11 @@
 mack_mp8_kriechbaum
 kenworth_w900_rm
+air_compressor
 brake.effects
 park_brake
 stick_blinker
-reverse
 retarder
-air_compressor
 air_horns
+road_noise
+trailer_coupling
 
